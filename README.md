@@ -2,6 +2,12 @@
 
 A simple browser-based Hangman game built with HTML, CSS, and JavaScript. The player guesses letters to reveal a hidden word before running out of chances. Each round includes a hint and a dynamic keyboard, with a win/lose modal and responsive layout.
 
+## Example
+
+<p align="center">
+    <img src="images/example.png" width=60% height=60%>
+</p>
+
 ## Demo
 
 Open the project in your browser to play locally, or deploy the site with GitHub Pages to share it online.
